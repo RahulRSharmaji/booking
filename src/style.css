@@ -1,0 +1,15 @@
+h1:first-child{
+    color:red;
+    background-color:green;
+    text-align:center
+}
+
+.text{
+    color:blanchedalmond;
+    background-color:green;
+    text-align:center
+}
+
+img{
+    width: 50px;
+}
